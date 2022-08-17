@@ -1,0 +1,9 @@
+.assignment{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.assignment > div{
+    margin-bottom: 10px;
+}
